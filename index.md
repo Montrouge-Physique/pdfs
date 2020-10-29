@@ -13,6 +13,7 @@ ma belle liste:
 
 - hello
 - goodbye
+
 </details>
 
 
@@ -23,6 +24,7 @@ ma belle liste:
 
 1. hello
 2. goodbye
+
 </details>
 
 |header|header2|
